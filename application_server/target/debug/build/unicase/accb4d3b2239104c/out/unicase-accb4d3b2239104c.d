@@ -1,0 +1,10 @@
+/mnt/e/Rust/Rust_Backend/Restaurant_Management/application_server/target/debug/build/unicase/accb4d3b2239104c/out/unicase-accb4d3b2239104c.d: /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/lib.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/ascii.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/mod.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/map.rs
+
+/mnt/e/Rust/Rust_Backend/Restaurant_Management/application_server/target/debug/build/unicase/accb4d3b2239104c/out/libunicase-accb4d3b2239104c.rlib: /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/lib.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/ascii.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/mod.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/map.rs
+
+/mnt/e/Rust/Rust_Backend/Restaurant_Management/application_server/target/debug/build/unicase/accb4d3b2239104c/out/libunicase-accb4d3b2239104c.rmeta: /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/lib.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/ascii.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/mod.rs /home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/map.rs
+
+/home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/lib.rs:
+/home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/ascii.rs:
+/home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/mod.rs:
+/home/gaurav72/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.9.0/src/unicode/map.rs:
